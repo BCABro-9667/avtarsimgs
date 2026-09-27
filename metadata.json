@@ -1,0 +1,6 @@
+{
+  "name": "LinkImg Vault",
+  "description": "Personal image link vault with short link generation, preview, and database storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
